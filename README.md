@@ -129,4 +129,5 @@ HTTPConnection object, and that has an associated IOStream object
 which handles the nonblocking read/write events for you.
 
 
-See CREDITS file
+See CREDITS file 
+Launch using Google Chrome Apps
